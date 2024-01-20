@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Sunilkumargouda
-- 👀 I’m interested in DEVOPS
+- 👀 I’m learning DEVOPS
 - 🌱 I’m currently learning DEVOPS
