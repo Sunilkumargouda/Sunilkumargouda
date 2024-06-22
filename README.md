@@ -26,3 +26,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunilkumargouda&show_icons=true&locale=en" alt="sunilkumargouda" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunilkumargouda&" alt="sunilkumargouda" /></p>
+
+### 📈 My GitHub Contributions
+![Snake animation] (https://github.com/Sunilkumargouda/Sunilkumargouda/blob/output/github-contribution-grid-snake.svg)
+
+
