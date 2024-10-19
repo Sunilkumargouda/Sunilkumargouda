@@ -1,0 +1,1 @@
+$ minikube start --kubernetes-version=v1.28.13 --driver=docker -p sunil --nodes=2
